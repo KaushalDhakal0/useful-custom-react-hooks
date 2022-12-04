@@ -28,6 +28,7 @@ import RenderCountComponent from "./27-useRenderCount/RenderCountComponent"
 import DebugInformationComponent from "./28-useDebugInformation/DebugInformationComponent"
 import HoverComponent from "./29-useHover/HoverComponent"
 import LongPressComponent from "./30-useLongPress.js/LongPressComponent"
+import Component from "./31-useClippy/useClippy"
 
 function App() {
   // return <ToggleComponent />
@@ -59,7 +60,8 @@ function App() {
   // return <RenderCountComponent />
   // return <DebugInformationComponent />
   // return <HoverComponent />
-  return <LongPressComponent />
+  // return <LongPressComponent />
+  return <Component />
 }
 
 export default App
