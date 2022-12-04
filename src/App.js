@@ -29,7 +29,8 @@ import DebugInformationComponent from "./28-useDebugInformation/DebugInformation
 import HoverComponent from "./29-useHover/HoverComponent"
 import LongPressComponent from "./30-useLongPress.js/LongPressComponent"
 import Component from "./31-useClippy/useClippy";
-import ScriptComponent2 from "./32-useScript/ScriptUse"
+import ScriptComponent2 from "./32-useScript/ScriptUse";
+import IndexedDb from "./33-useIndexDb";
 
 
 function App() {
@@ -65,6 +66,7 @@ function App() {
   // return <LongPressComponent />
   // return <Component />
   return <ScriptComponent2 />
+  return <IndexedDb />
 }
 
 export default App

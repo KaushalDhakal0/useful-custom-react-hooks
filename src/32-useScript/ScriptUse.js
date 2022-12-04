@@ -12,6 +12,7 @@ export default function ScriptComponent2() {
     return (
         <div>
             ...
+            See in the console.It appears only if script is loaded.....
         </div>
     )
 }

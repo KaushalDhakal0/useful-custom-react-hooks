@@ -11,7 +11,9 @@
     "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-script-hook": "^1.7.2",
     "react-scripts": "4.0.3",
+    "react-use-idb": "^1.0.2",
     "use-clippy": "^1.0.9",
     "web-vitals": "^1.1.2"
   },
